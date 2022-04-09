@@ -1,3 +1,4 @@
+
 touch Makefile.am
 autoscan
 vi configure.scan
@@ -10,3 +11,4 @@ autoconf
 
 #pkg-config --cflags --libs gtk+-2.0
 #pkg-config --cflags --libs opencv
+runnet 视频采集C/C++ Socket服务端 
